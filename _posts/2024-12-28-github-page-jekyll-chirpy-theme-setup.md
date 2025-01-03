@@ -2,7 +2,7 @@
 title: "Setup GitHub Pages for Blog Using Chirpy Jekyll Theme"
 date: 2024-12-28 12:00:00 +0000
 categories: [Tech, Blog]
-tags: [Tech, GitHub, Jekyll]
+tags: [Tech, Github, Jekyll]
 image: ../assets/blog_files/files_blog20241228/image-3.png
 ---
 

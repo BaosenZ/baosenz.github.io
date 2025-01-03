@@ -1,8 +1,8 @@
 ---
 title: "My First Chirpy Blog Post"
 date: 1995-05-05 12:00:00 +0000
-categories: [Test, Chirpy]
-tags: [Test, Chirpy, Jekyll]     # Optional, can add more tags
+categories: [Test, Jekyll]
+tags: [Test]
 image: /assets/blog_files/files_blog19950505/sample-image.jpeg
 ---
 
