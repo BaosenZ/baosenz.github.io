@@ -3,14 +3,14 @@ title: "Setup GitHub Pages for Blog Using Chirpy Jekyll Theme"
 date: 2024-12-28 12:00:00 +0000
 categories: [Tech, Blog]
 tags: [Tech, Github, Jekyll]
-image: ../assets/blog_files/files_blog20241228/image-3.png
+image: ../assets/blog_files/files_blog20241228/image-3.jpg
 ---
 
 
 ## 1 Introduction
 
 This post is the guide of how to setup GitHub Pages for personal blog using Chirpy Jekyll Theme. I used Windows 11. If you used Windows 11, you can just follow along. After this finishing all the steps, here is what you will have:  
-![alt text](../assets/blog_files/files_blog20241228/image-3.png)
+![alt text](../assets/blog_files/files_blog20241228/image-3.jpg)
 
 ## 2 Guides
 
@@ -26,9 +26,7 @@ Then, we git clone our repo locally:
 ```bash
 git clone <repo-github.io-link>
 ```
-If we open with VScode, you could see the folder structure like:
-![alt text](../assets/blog_files/files_blog20241228/image-1.png)
-We change the directory to the github.io link, and execute the jekyll:
+If we open with VScode, you could see the folder structure, which could contain `_posts`, `_site`, `assets`, `tools`, and more folders. We change the directory to the github.io link, and execute the jekyll:
 ```bash
 cd <repo-github.io-link>
 bundle exec jekyll s
@@ -58,7 +56,7 @@ This is a test post to explore how Chirpy renders content. Below are some featur
 
 ### Adding an Image
 Here’s an image example (make sure the file exists in assets/img/posts/):
-![image](/assets/blog_files/files_blog19950505/sample-image.jpeg)
+![image](/assets/blog_files/files_blog20140901/sample-image.jpeg)
 ```
 
 ### 2.4 GitHub Pages Setup and deploy

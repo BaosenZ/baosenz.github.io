@@ -6,6 +6,9 @@ tags: [Life, Travel]
 image: ../assets/blog_files/files_blog20241227/IMG_6984.JPEG
 ---
 
+I shared this travel experience in [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
+
+Below is backup for the post in RedNote: 
 
 ## 1 流水账
 
@@ -80,6 +83,6 @@ Devil's Bridge不能直接到，不是越野车的话，导航到Mescal trail，
 知道怎么寻找能量点了，如果二刷这个地方的话，可能会在一些能量点多待一会儿吧。
 
 ## 4 Reference
-1. 【Sedona最火打卡点Devil's Bridge恶魔桥攻略 - 草头三字 | 小红书 - 你的生活指南】 😆 tAAHLB1eXhyjFq5 😆 https://www.xiaohongshu.com/discovery/item/65dc8e39000000000b018ace?source=webshare&xhsshare=pc_web&xsec_token=ABbpqQuQFvBPt2n2EvhkNfiZ60RFGZNj_jYcUrD0iPyYo=&xsec_source=pc_shareab_channel=TechnoTim
+1. Sedona最火打卡点Devil's Bridge恶魔桥攻略，草头三字，小红书-你的生活指南: [https://www.xiaohongshu.com/discovery/item/65dc8e39000000000b018ace?source=webshare&xhsshare=pc_web&xsec_token=ABbpqQuQFvBPt2n2EvhkNfiZ60RFGZNj_jYcUrD0iPyYo=&xsec_source=pc_shareab_channel=TechnoTim](https://www.xiaohongshu.com/discovery/item/65dc8e39000000000b018ace?source=webshare&xhsshare=pc_web&xsec_token=ABbpqQuQFvBPt2n2EvhkNfiZ60RFGZNj_jYcUrD0iPyYo=&xsec_source=pc_shareab_channel=TechnoTim)
 
 

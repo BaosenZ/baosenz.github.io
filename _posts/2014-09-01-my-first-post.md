@@ -1,9 +1,9 @@
 ---
 title: "My First Chirpy Blog Post"
-date: 1995-05-05 12:00:00 +0000
+date: 2014-09-01 12:00:00 +0000
 categories: [Test, Jekyll]
 tags: [Test]
-image: /assets/blog_files/files_blog19950505/sample-image.jpeg
+image: /assets/blog_files/files_blog20140901/sample-image.jpeg
 ---
 
 Welcome to my first blog post using the Chirpy Jekyll theme! 🚀
@@ -28,7 +28,7 @@ def hello_world():
 
 ### Adding an Image
 Here’s an image example (make sure the file exists in assets/img/posts/):
-![image](/assets/blog_files/files_blog19950505/sample-image.jpeg)
+![image](/assets/blog_files/files_blog20140901/sample-image.jpeg)
 
 
 
