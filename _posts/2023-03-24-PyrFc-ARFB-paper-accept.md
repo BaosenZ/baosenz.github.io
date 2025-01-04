@@ -1,8 +1,8 @@
 ---
-title: "Paper Accepted by Journal of Organometallic Chemistry"
-date: 2023-03-24 12:00:00 +0000
+title: "New Publication: Pyridinium ferrocene for redox flow batteries application"
+date: 2023-03-24 22:00:00 -0400
 categories: [Achievement]
-tags: [Achievement]
+tags: [achievement]
 image: https://ars.els-cdn.com/content/image/1-s2.0-S0022328X23000839-ga1.jpg
 ---
 

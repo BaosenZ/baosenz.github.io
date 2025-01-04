@@ -1,12 +1,12 @@
 ---
-title: "Phoenix and Sedona, Arizona旅行经历 2024 Christmas"
-date: 2024-12-27 22:00:00 +0000
+title: "Phoenix and Sedona, AZ travel experience in 2024 Christmas"
+date: 2024-12-27 22:00:00 -0400
 categories: [Life, Travel]
-tags: [Life, Travel]
+tags: [life, travel]
 image: ../assets/blog_files/files_blog20241227/IMG_6984.JPEG
 ---
 
-I shared this travel experience in [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
+I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
 
 Below is backup for the post in RedNote: 
 
@@ -26,8 +26,9 @@ Below is backup for the post in RedNote:
 (3) 午餐，随便一家中餐  
 (4) 🌵Desert Botanical Garden, 2h  
     他们大概5点关门  
-(5) 🌄到hole in the rock看日落，这个地方在Papago Park里面
-![alt text](../assets/blog_files/files_blog20241227/IMG_6890.JPEG)
+(5) 🌄到hole in the rock看日落，这个地方在Papago Park里面  
+![alt text](../assets/blog_files/files_blog20241227/IMG_6890.JPEG){: w="500" h="300" }
+_Hole in the rock_  
 (6) 晚餐参考：the mission old town  
 (7) 🏨宾馆checkin，住一晚  
 
@@ -50,7 +51,8 @@ Below is backup for the post in RedNote:
 (1) 蓝色麦当劳打卡, 7:30AM出发  
 (2) 😈🧗Mescal trailhead, to Devil's Bridge  
 Devil's Bridge不能直接到，不是越野车的话，导航到Mescal trail，慢慢走就好。很容易迷路。  
-![alt text](../assets/blog_files/files_blog20241227/IMG_6984.JPEG)
+![alt text](../assets/blog_files/files_blog20241227/IMG_6984.JPEG){: w="500" h="300" }
+_Devil's Bridge_  
 (3) Tlaquepaque art&crafts village  
 很多艺术的小东西，挺好看的。  
 (4) 开车去Phoenix，路上解决的午餐  
@@ -62,7 +64,8 @@ Devil's Bridge不能直接到，不是越野车的话，导航到Mescal trail，
 (1) 🧗Boynton Canyon trail to subway cave   
 (2) Jeep tour落日  
 我们pink jeep tour没有预定到，这个要提前订。幸运的而是我们有Safari Jeep tour，那个开车的大哥给我讲了好多故事，还有展示怎么找自己能量点，真的超级棒！ 
-![alt text](../assets/blog_files/files_blog20241227/IMG_7106.JPEG)
+![alt text](../assets/blog_files/files_blog20241227/IMG_7106.JPEG){: w="500" h="300" }
+_Jeep tour_  
 (3) 🍚找饭店吃饭  
 圣诞找饭店真的难，建议提前预定~
 
