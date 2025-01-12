@@ -4,6 +4,7 @@ date: 2024-12-28 22:00:00 -0400
 categories: [Tech, Blog]
 tags: [tech, github, jekyll]
 image: ../assets/blog_files/files_blog20241228/image-3.jpg
+pin: True
 ---
 
 
