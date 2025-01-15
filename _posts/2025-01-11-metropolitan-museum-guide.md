@@ -49,8 +49,7 @@ Ref: wiki
 ![alt text](../assets/blog_files/files_blog20250111/image-2.png){: w="500" h="300" }
 _Figure: Madame X_  
 
-我们应用这个[Guide to The Metropolitan Museum](../assets/blog_files/files_blog20250111/Guide_to_The_Metropolitan_Museum_of_Art_1972.pdf
-)书里面的来介绍：  
+我们应用这个[Guide to The Metropolitan Museum](../assets/blog_files/files_blog20250111/Guide_to_The_Metropolitan_Museum_of_Art_1972.pdf)书里面的来介绍：  
 >Also at home in London was John Singer Sargent, who enjoyed extraordinary international success as a portrait painter. Of the many portraits in the Metropolitan, one of the most famous is his painting of Madame X—Madame Pierre Gautreau; when exhibited in 1884 the picture of this great Parisian beauty was received with derision because of the daring dress and odd skin color. Sargent himself sold it to the Museum in 1916, terming it perhaps his best picture. Later in his life he liked to paint mostly landscapte and water colors.    
 Ref: Guide to The Metropolitan Museum
 译文：同样在伦敦居住的还有约翰·辛格·萨金特，他作为肖像画家在国际上取得了非凡的成就。在大都会博物馆的众多肖像画中，最著名的一幅是他为皮埃尔·高特罗夫人（Madame Pierre Gautreau）所作的画作；1884 年展出时，这位巴黎大美人的画像因其大胆的着装和奇怪的肤色而遭到嘲笑。萨金特本人于 1916 年将其卖给了博物馆，称这可能是他最好的画作。晚年他喜欢画风景画和水彩画。
@@ -64,8 +63,7 @@ Ref: Guide to The Metropolitan Museum
 1. 官网 audio guide 链接: [https://www.metmuseum.org/audio-guide](https://www.metmuseum.org/audio-guide)
 2. 关于莫奈，董宇辉老师讲的非常好！这里是视频：[https://www.bilibili.com/video/BV1fH4y1E7wZ/?vd_source=a6cdf272e0acb7e9c6c08705bb2c9028](https://www.bilibili.com/video/BV1fH4y1E7wZ/?vd_source=a6cdf272e0acb7e9c6c08705bb2c9028)
 3. George Washington crossing of the Delaware River wiki介绍：[https://en.wikipedia.org/wiki/George_Washington%27s_crossing_of_the_Delaware_River](https://en.wikipedia.org/wiki/George_Washington%27s_crossing_of_the_Delaware_River)
-4. Book: [Guide to The Metropolitan Museum](../assets/blog_files/files_blog20250111/Guide_to_The_Metropolitan_Museum_of_Art_1972.pdf
-)
-5. 我的小红书 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> 相关链接：[https://www.xiaohongshu.com/discovery/item/67835360000000002001d914?source=webshare&xhsshare=pc_web&xsec_token=ABZTq9bZ7gA9T43baJFQRXUsp52ZlwJUktYtIKmYO8KpI=&xsec_source=pc_share](https://www.xiaohongshu.com/discovery/item/67835360000000002001d914?source=webshare&xhsshare=pc_web&xsec_token=ABZTq9bZ7gA9T43baJFQRXUsp52ZlwJUktYtIKmYO8KpI=&xsec_source=pc_share)
+4. 博物馆官网提供了一本不错的参考书: [Guide to The Metropolitan Museum](https://resources.metmuseum.org/resources/metpublications/pdf/Guide_to_The_Metropolitan_Museum_of_Art_1972.pdf)
+1. 我的小红书 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> 相关链接：[https://www.xiaohongshu.com/discovery/item/67835360000000002001d914?source=webshare&xhsshare=pc_web&xsec_token=ABZTq9bZ7gA9T43baJFQRXUsp52ZlwJUktYtIKmYO8KpI=&xsec_source=pc_share](https://www.xiaohongshu.com/discovery/item/67835360000000002001d914?source=webshare&xhsshare=pc_web&xsec_token=ABZTq9bZ7gA9T43baJFQRXUsp52ZlwJUktYtIKmYO8KpI=&xsec_source=pc_share)
 
 
