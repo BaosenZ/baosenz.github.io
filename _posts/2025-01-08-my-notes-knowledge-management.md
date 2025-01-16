@@ -54,17 +54,17 @@ pin: true
 ### 4.1 Zotero
 
 我都是直接在pdf里面标注，如果需要总结就在ppt里面总结。初步的note，就直接在Zotero里面写：  
-![alt text](../assets/blog_files/files_blog20250108/image.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2025-01-08-my-notes-knowledge-management/image.png){: w="500" h="300" }
 _Figure: Zotero笔记_ 
 
 分享我的Zotero设置，用dropbox存文献，省点订阅Zotero的钱。  
-![alt text](../assets/blog_files/files_blog20250108/image-1.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2025-01-08-my-notes-knowledge-management/image-1.png){: w="500" h="300" }
 _Figure: Zotero用Dropbox同步的设置_ 
 
 ### 4.2 欧陆词典
 
 欧陆词典也可以做笔记，这种模式让我有了不断积累新词的习惯。超级赞！  
-![alt text](../assets/blog_files/files_blog20250108/image-2.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2025-01-08-my-notes-knowledge-management/image-2.png){: w="500" h="300" }
 _Figure: 欧陆词典笔记_ 
 
 ### 4.3 Obsidian
@@ -75,13 +75,13 @@ _Figure: 欧陆词典笔记_
 用到的插件包括local backup, hotkey++, Calender, Tray
 
 下面是个简单展示：  
-![alt text](../assets/blog_files/files_blog20250108/image-4.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2025-01-08-my-notes-knowledge-management/image-4.png){: w="500" h="300" }
 _Figure: Obsidian日记theme_ 
 
 如果你不是程序员，不建议搞Obsidian，learning curve有点长~你能跟着别人学会，做出你想要的东西，但是要花时间学。如果这个不介意，那obsidian真非常好了！希望一直好下去。
 
 对，我还把Obsidian的图标换了：  
-![alt text](../assets/blog_files/files_blog20250108/image-3.png){: w="100" h="10" }
+![alt text](../assets/blog_files/2025-01-08-my-notes-knowledge-management/image-3.png){: w="100" h="10" }
 
 <!-- ### 4.4 Onenote -->
 

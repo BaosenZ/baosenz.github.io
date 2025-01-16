@@ -27,7 +27,7 @@ Below is backup for the post in RedNote:
 (4) 🌵Desert Botanical Garden, 2h  
     他们大概5点关门  
 (5) 🌄到hole in the rock看日落，这个地方在Papago Park里面  
-![alt text](../assets/blog_files/files_blog20241227/IMG_6890.JPEG){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-27-phoenix-sedona-AZ-travel/IMG_6890.JPEG){: w="500" h="300" }
 _Hole in the rock_  
 (6) 晚餐参考：the mission old town  
 (7) 🏨宾馆checkin，住一晚  
@@ -51,7 +51,7 @@ _Hole in the rock_
 (1) 蓝色麦当劳打卡, 7:30AM出发  
 (2) 😈🧗Mescal trailhead, to Devil's Bridge  
 Devil's Bridge不能直接到，不是越野车的话，导航到Mescal trail，慢慢走就好。很容易迷路。  
-![alt text](../assets/blog_files/files_blog20241227/IMG_6984.JPEG){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-27-phoenix-sedona-AZ-travel/IMG_6984.JPEG){: w="500" h="300" }
 _Devil's Bridge_  
 (3) Tlaquepaque art&crafts village  
 很多艺术的小东西，挺好看的。  
@@ -64,7 +64,7 @@ _Devil's Bridge_
 (1) 🧗Boynton Canyon trail to subway cave   
 (2) Jeep tour落日  
 我们pink jeep tour没有预定到，这个要提前订。幸运的而是我们有Safari Jeep tour，那个开车的大哥给我讲了好多故事，还有展示怎么找自己能量点，真的超级棒！ 
-![alt text](../assets/blog_files/files_blog20241227/IMG_7106.JPEG){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-27-phoenix-sedona-AZ-travel/IMG_7106.JPEG){: w="500" h="300" }
 _Jeep tour_  
 (3) 🍚找饭店吃饭  
 圣诞找饭店真的难，建议提前预定~

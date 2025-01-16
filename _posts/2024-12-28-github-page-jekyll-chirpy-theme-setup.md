@@ -11,7 +11,7 @@ pin: True
 ## 1 Introduction
 
 This post is the guide of how to setup GitHub Pages for personal blog using Chirpy Jekyll Theme. I used Windows 11. If you used Windows 11, you can just follow along. After this finishing all the steps, here is what you will have:  
-![alt text](../assets/blog_files/files_blog20241228/image-3.jpg){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image-3.jpg){: w="500" h="300" }
 _Screenshot of Chirpy Blog_  
 
 ## 2 Guides for Setting Up
@@ -19,7 +19,7 @@ _Screenshot of Chirpy Blog_
 ### 2.1 GitHub Repo Setup
 
 First, we need to setup the GitHub Repo following the [get-started tutorial by Chirpy](https://chirpy.cotes.page/posts/getting-started/). I used the recommended starter method. The image below is the steps:  
-![alt text](../assets/blog_files/files_blog20241228/image.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image4.png){: w="500" h="300" }
 _GitHub Repo Setup steps_  
 
 ### 2.2 Local Blog Setup
@@ -35,7 +35,7 @@ cd <repo-github.io-link>
 bundle exec jekyll s
 ```
 Here is the output and you can visualize your blog in address: http://127.0.0.1:4000/:  
-![alt text](../assets/blog_files/files_blog20241228/image-2.png){: w="500" h="300" }
+![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image-2.png){: w="500" h="300" }
 _Visualize your blog in address_  
 
 ### 2.3 First Hello World Blog
@@ -81,9 +81,13 @@ It will take a minute to deploy. But after it's done, you can go to your github 
 ```markdown
 I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
 ```
+
 Below is the output, you can see the rednote image rendering great:  
-I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
-3. This post from Chirpy is really great source: [https://chirpy.cotes.page/posts/write-a-new-post/](https://chirpy.cotes.page/posts/write-a-new-post/)
+I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.  
+
+3. This post from Chirpy is really great source: [https://chirpy.cotes.page/posts/write-a-new-post/](https://chirpy.cotes.page/posts/write-a-new-post/)  
+4. If you want to write your post and store you images in `assets` folder, below is the setting:   
+![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image.png)
 
 ## Reference
 1. The youtube video and his post are good source to use chirpy Jekyll theme: https://technotim.live/posts/jekyll-docs-site/ and https://www.youtube.com/watch?v=F8iOU1ci19Q&ab_channel=TechnoTim
