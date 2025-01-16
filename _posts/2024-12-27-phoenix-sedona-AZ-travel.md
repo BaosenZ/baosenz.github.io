@@ -3,7 +3,7 @@ title: "Phoenix and Sedona, AZ travel experience in 2024 Christmas"
 date: 2024-12-27 22:00:00 -0400
 categories: [Life, Travel]
 tags: [life, travel]
-image: ../assets/blog_files/files_blog20241227/IMG_6984.JPEG
+image: ../assets/blog_files/2024-12-27-phoenix-sedona-AZ-travel/IMG_6984.JPEG
 ---
 
 I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.

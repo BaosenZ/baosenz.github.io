@@ -3,7 +3,7 @@ title: "Test: First Blog Post Using Chirpy Jekyll Theme"
 date: 2014-09-01 22:00:00 -0400
 categories: [Test, Jekyll]
 tags: [test]
-image: ../assets/blog_files/files_blog20140901/sample-image.jpeg
+image: ../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg
 ---
 
 This is my first blog post using the Chirpy Jekyll theme! 🚀

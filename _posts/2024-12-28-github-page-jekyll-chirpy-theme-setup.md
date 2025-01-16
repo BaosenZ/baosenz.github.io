@@ -3,7 +3,7 @@ title: "Setup GitHub Pages for Blog Using Chirpy Jekyll Theme"
 date: 2024-12-28 22:00:00 -0400
 categories: [Tech, Blog]
 tags: [tech, github, jekyll]
-image: ../assets/blog_files/files_blog20241228/image-3.jpg
+image: ../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image-3.jpg
 pin: True
 ---
 
@@ -86,7 +86,7 @@ Below is the output, you can see the rednote image rendering great:
 I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.  
 
 3. This post from Chirpy is really great source: [https://chirpy.cotes.page/posts/write-a-new-post/](https://chirpy.cotes.page/posts/write-a-new-post/)  
-4. If you want to write your post and store you images in `assets` folder, below is the setting:   
+4. If you want to write your post and store you images in `assets` folder automatically, we can refer to the vscode documentation of how to write markdown in vscode editor ([https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)). Below is the setting:   
 ![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image.png)
 
 ## Reference

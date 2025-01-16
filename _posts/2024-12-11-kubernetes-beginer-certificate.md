@@ -3,7 +3,7 @@ title: "New Certificate: Kubernetes for Beginners Cource in Udemy"
 date: 2024-12-11 22:00:00 -0400
 categories: [Achievement]
 tags: [achievement]
-image: ../assets/blog_files/files_blog20241211/logo.png
+image: ../assets/blog_files/2024-12-11-kubernetes-beginer-certificate/logo.png
 ---
 
 I got certificates for the Kuternetes Beginner Course in Udemy! 

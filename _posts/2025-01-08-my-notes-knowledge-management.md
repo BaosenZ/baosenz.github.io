@@ -3,7 +3,7 @@ title: "记录我对于笔记和知识管理的认识"
 date: 2025-01-08 22:00:00 -0400
 categories: [Tech, Blog]
 tags: [tech, blog, tool, note]
-image: ../assets/blog_files/files_blog20250108/profile_notes-log.png
+image: ../assets/blog_files/2025-01-08-my-notes-knowledge-management/profile_notes-log.png
 pin: true
 ---
 

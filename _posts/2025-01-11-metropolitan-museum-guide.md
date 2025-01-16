@@ -3,7 +3,7 @@ title: "逛纽约大都会艺术博物馆_3小时打卡式"
 date: 2025-01-11 22:00:00 -0400
 categories: [Life, Travel]
 tags: [life, travel]
-image: ../assets/blog_files/files_blog20250111/IMG_7335.JPEG
+image: ../assets/blog_files/2025-01-11-metropolitan-museum-guide/IMG_7335.JPEG
 ---
 
 （未完待续）
