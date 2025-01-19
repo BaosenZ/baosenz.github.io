@@ -1,8 +1,8 @@
 ---
-title: "New Publication: Pyridinium ferrocene for redox flow batteries application"
+title: "New Publication - Pyridinium ferrocene for redox flow batteries application"
 date: 2023-03-24 22:00:00 -0400
-categories: [Achievement]
-tags: [achievement]
+categories: [Achievement, Publication]
+tags: [achievement, publication, electrochemistry, battery]
 image: https://ars.els-cdn.com/content/image/1-s2.0-S0022328X23000839-ga1.jpg
 ---
 

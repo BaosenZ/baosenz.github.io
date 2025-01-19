@@ -2,7 +2,7 @@
 title: "KerasTuner for Keras sequential neural network model hyperparameter tuning"
 date: 2024-08-03 22:00:00 -0400
 categories: [Tech, Machine Learning]
-tags: [tech, machine learning]
+tags: [tech, machine-learning]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png
 ---
 
