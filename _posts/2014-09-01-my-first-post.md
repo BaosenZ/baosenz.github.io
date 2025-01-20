@@ -1,8 +1,8 @@
 ---
-title: "Test: First Blog Post Using Chirpy Jekyll Theme"
+title: "Template: First Blog Post Using Chirpy Jekyll Theme"
 date: 2014-09-01 22:00:00 -0400
-categories: [Test, Jekyll]
-tags: [test]
+categories: [Template]
+tags: [template, blog, jekyll]
 image: ../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg
 ---
 
@@ -32,7 +32,7 @@ Here’s an image example (make sure the file exists):
 _Fig: Test image caption._
 
 **Add inline image:**  
-I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
+I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share){:target="_blank"}. Hopefully, this could help somebody.
 
 ## Add Quotation and Prompts
 
