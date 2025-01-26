@@ -77,6 +77,7 @@ It will take a minute to deploy. But after it's done, you can go to your github 
 ## 3 Use tips
 
 1. If you want to remove "Post Updated date". We can go to `_plugins` folder. Find out `posts-lastmod-hook.rb` file, comment out code related to `last_modified_at`.
+
 2. If we want have a inline image, we need to use `span` HTML. Here is code I add Rednote:
 ```markdown
 I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.
@@ -86,8 +87,17 @@ Below is the output, you can see the rednote image rendering great:
 I shared this travel experience in <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/512px-XiaohongshuLOGO.svg.png" alt="RedNote Logo" style="width: 20px; height: 20px;"></span> [RedNote as a travel guide post](https://www.xiaohongshu.com/discovery/item/6770486b000000000901699d?source=webshare&xhsshare=pc_web&xsec_token=ABYJwKkar-FcqNZocrAta0-D_KnYYA1ePeQWorz4yenaY=&xsec_source=pc_share). Hopefully, this could help somebody.  
 
 3. This post from Chirpy is really great source: [https://chirpy.cotes.page/posts/write-a-new-post/](https://chirpy.cotes.page/posts/write-a-new-post/)  
+
 4. If you want to write your post and store you images in `assets` folder automatically, we can refer to the vscode documentation of how to write markdown in vscode editor ([https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)). Below is the setting:   
 ![alt text](../assets/blog_files/2024-12-28-github-page-jekyll-chirpy-theme-setup/image.png)
+
+5. A VS-Code extention to help us write blogs: "jekyll-post". The "jekyll-post" can help us create blog with a template. Below is instructions: 
+> If a user wants to provide a template file for new posts, they should create a file: `.post-template` in the Jekyll project root directory.   
+To create a new post, a user must right click on a directory in the explorer menu and select the "New Post" option. Then, a dialog box prompts the user to provide the name of the file.   
+Ref: jekyll-post vscode extention
+
+6. A VS-Code extention to help us write blogs: "Jekyll Run". With "Jekyll Run", we "can simply Run your Jekyll site locally and opens your site in browser" instead of writing "bundle exec jekyll s" everytime.
+
 
 ## Reference
 1. The youtube video and his post are good source to use chirpy Jekyll theme: https://technotim.live/posts/jekyll-docs-site/ and https://www.youtube.com/watch?v=F8iOU1ci19Q&ab_channel=TechnoTim
