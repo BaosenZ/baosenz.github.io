@@ -3,7 +3,7 @@ title: "Template: First Blog Post Using Chirpy Jekyll Theme"
 date: 2014-09-01 22:00:00 -0400
 categories: [Template]
 tags: [template, blog, jekyll]
-image: ../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg
+image: /assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg
 ---
 
 This is my first blog post using the Chirpy Jekyll theme! 🚀
@@ -28,7 +28,7 @@ def hello_world():
 ### Adding an Image
 Here’s an image example (make sure the file exists):
 
-![alt text](../../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg){: w="300" h="200" }
+![alt text](/assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg){: w="500" h="300" }
 _Fig: Test image caption._
 
 **Add inline image:**  
