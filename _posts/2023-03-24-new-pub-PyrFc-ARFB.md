@@ -6,7 +6,7 @@ tags: [achievement, publication, electrochemistry, battery]
 image: https://ars.els-cdn.com/content/image/1-s2.0-S0022328X23000839-ga1.jpg
 ---
 
-Our group collaborated with Dr. Christopher Ziegler's group published paper about pyridinium ferrocene aqueous redox flow battery (ARFB) in the [Journal of Organometallic Chemistry titled "Pyridinium ferrocene sulfonate salts: Highly soluble materials for electrochemical applications"](https://doi.org/10.1016/j.jorganchem.2023.122695). This is also my fourth ferrocene-based ARFB paper. We gradually revealed what is the better ferrocene chemical structure for ARFB applications. 
+🎉Our group collaborated with Dr. Christopher Ziegler's group published paper about pyridinium ferrocene aqueous redox flow battery (ARFB) in the [Journal of Organometallic Chemistry titled "Pyridinium ferrocene sulfonate salts: Highly soluble materials for electrochemical applications"](https://doi.org/10.1016/j.jorganchem.2023.122695). This is also my fourth ferrocene-based ARFB paper. We gradually revealed what is the better ferrocene chemical structure for ARFB applications. 
 
 Here are all our ferrocene-based ARFB papers, which exhibit our understanding of this type of ARFB materials: 
 1. [Investigations into aqueous redox flow batteries based on ferrocene bisulfonate](https://pubs.acs.org/doi/10.1021/acsaem.0c02259)

@@ -3,7 +3,7 @@ title: "Run DeepSeek-R1 in Our Local Windows Computer"
 date: 2025-01-25 22:00:00 -0400
 categories: [Tech, LLMs]
 tags: [tech, machine-learning, large-language-models]
-image: ../assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-1.png
+image: /assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-1.png
 ---
 
 ## 1 Use DeepSeek-R1 with Ollma (Quick start)
@@ -15,7 +15,7 @@ image: ../assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-1.png
 ollama run llama3.2:1b
 ```
 This will pull the llama3.2 model with 1b params. The full model library is avaiable in ollama, here is the hyperlink, [llama model library](https://ollama.com/search). After the pulling is done, it will run the model in the terminal. Below is the image:    
-![alt text](../assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-1.png){: w="500" h="300" }
+![alt text](/assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-1.png){: w="500" h="300" }
 _ollama run llama3.2:1b model._
 
 2. The Ollama has already intergrated deepseek-r1 model. So, we can quickly pull and run the deepseek-r1 model with ollma locally, and we can check all downloaded models. Below is the code, 
@@ -24,7 +24,7 @@ ollama run deepseek-r1:1.5b
 ollama list  # show all llm models
 ```
 Image belowshows what I ran in my computer:  
-![alt text](../assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-3.png){: w="500" h="300" }
+![alt text](/assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-3.png){: w="500" h="300" }
 _ollama run deepseek-r1:1.5b model._
 
 Hardware requirements: [To Do]   
@@ -69,7 +69,7 @@ Lastly, test the model:
 ollama run my-deepseekr1-1.5b
 ```
 Image below shows the process:   
-![alt text](../assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-4.png){: w="500" h="300" }
+![alt text](/assets/blog_files/2025-01-23-run-deepseekr1-local-windows/image-4.png){: w="500" h="300" }
 _create deepseek-r1 model using ollama with source._
 
 

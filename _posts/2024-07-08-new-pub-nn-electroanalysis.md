@@ -5,7 +5,7 @@ categories: [Achievement, Publication]
 tags: [achievement, publication, machine-learning, electrochemistry]
 ---
 
-I'm happy to see this paper published titled "Polymer bead size revealed via neural network analysis of single-entity electrochemical data", here is the hyperlink, [Polymer bead size revealed via neural network analysis of single-entity electrochemical data](https://pubs.rsc.org/en/content/articlehtml/2024/an/d4an00670d). I saw this idea coming out with just simple drawing in the white board, became mature, and finally released in **Analyst** journal published by the Royal Society of Chemistry. 
+🎉I'm happy to see this paper published titled "Polymer bead size revealed via neural network analysis of single-entity electrochemical data", here is the hyperlink, [Polymer bead size revealed via neural network analysis of single-entity electrochemical data](https://pubs.rsc.org/en/content/articlehtml/2024/an/d4an00670d). I saw this idea coming out with just simple drawing in the white board, became mature, and finally released in **Analyst** journal published by the Royal Society of Chemistry. 
 
 Below is the abstract of our paper:   
 > **Abstract**  

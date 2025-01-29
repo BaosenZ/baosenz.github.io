@@ -28,7 +28,7 @@ def hello_world():
 ### Adding an Image
 Here’s an image example (make sure the file exists):
 
-![alt text](../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg){: w="300" h="200" }
+![alt text](../../assets/blog_files/2014-09-01-my-first-post/sample-image.jpeg){: w="300" h="200" }
 _Fig: Test image caption._
 
 **Add inline image:**  

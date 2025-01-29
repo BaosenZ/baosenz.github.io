@@ -3,7 +3,7 @@ title: "逛纽约大都会艺术博物馆_3小时打卡式"
 date: 2025-01-11 22:00:00 -0400
 categories: [Life, Travel]
 tags: [life, travel]
-image: ../assets/blog_files/2025-01-11-metropolitan-museum-guide/IMG_7335.JPEG
+image: /assets/blog_files/2025-01-11-metropolitan-museum-guide/IMG_7335.JPEG
 ---
 
 （未完待续）
@@ -22,7 +22,7 @@ image: ../assets/blog_files/2025-01-11-metropolitan-museum-guide/IMG_7335.JPEG
 #### 睡莲 Water Lilies
 
 19和20世纪的画，这里有梵高和莫奈。我最喜欢的一个painting是莫奈的睡莲，在Gallery 822，官网有这个画的介绍，点击下面的超链接就行， [Water Lilies, Claude Monet, French, 1919](https://www.metmuseum.org/art/collection/search/438008)。看下图：  
-![alt text](../assets/blog_files/2025-01-11-metropolitan-museum-guide/image-1.png){: w="500" h="300" }
+![alt text](/assets/blog_files/2025-01-11-metropolitan-museum-guide/image-1.png){: w="500" h="300" }
 _Figure: Water Lilies_ 
 
 关于莫奈与睡莲，董宇辉老师讲的这个非常好！这里是视频超链接：[董宇辉老师讲莫奈](https://www.bilibili.com/video/BV1fH4y1E7wZ/?vd_source=a6cdf272e0acb7e9c6c08705bb2c9028)。我们引用一下： 
@@ -34,7 +34,7 @@ Ref: 董宇辉
 #### George Washington's crossing of the Delaware River
 
 著名的画 George Washington's crossing of the Delaware River，在这个展馆内。这个链接是画的详细[wiki介绍](https://en.wikipedia.org/wiki/George_Washington%27s_crossing_of_the_Delaware_River)。下图就是这个画了。  
-![alt text](../assets/blog_files/2025-01-11-metropolitan-museum-guide/image.png){: w="500" h="300" }
+![alt text](/assets/blog_files/2025-01-11-metropolitan-museum-guide/image.png){: w="500" h="300" }
 _Figure: George Washington's crossing of the Delaware River_  
 
 摘录一段关于这个画的wiki的原文：
@@ -47,7 +47,7 @@ Ref: wiki
 #### Madame X
 
 展馆里面有一幅比较著名的肖像画，是John Singer Sargent画的，这个画的详细介绍在[wiki的链接](https://en.wikipedia.org/wiki/Portrait_of_Madame_X)：  
-![alt text](../assets/blog_files/2025-01-11-metropolitan-museum-guide/image-2.png){: w="200" h="200" }
+![alt text](/assets/blog_files/2025-01-11-metropolitan-museum-guide/image-2.png){: w="200" h="200" }
 _Figure: Madame X_  
 
 我们应用这个[Guide to The Metropolitan Museum](https://github.com/BaosenZ/baosenz.github.io/blob/main/assets/blog_files/2025-01-11-metropolitan-museum-guide/Guide_to_The_Metropolitan_Museum_of_Art_1972.pdf)书里面的来介绍：  
