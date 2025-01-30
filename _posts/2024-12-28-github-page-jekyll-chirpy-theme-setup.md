@@ -119,6 +119,8 @@ Gemfile
 _data
 ```
 
+9. You can press "Windows + ;" to trigger the Windows emoji. 如果你用中文输入法的话，可以直接在输入法中找到了。🚀
+
 
 ## Reference
 1. The youtube video and his post are good source to use chirpy Jekyll theme: https://technotim.live/posts/jekyll-docs-site/ and https://www.youtube.com/watch?v=F8iOU1ci19Q&ab_channel=TechnoTim
