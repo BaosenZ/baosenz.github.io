@@ -15,7 +15,7 @@ math: true
 Resources of RL ([Recommendedy by reddit user](https://www.reddit.com/r/reinforcementlearning/comments/embtnp/comment/fdnl09t/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)):   
 1. [Spinning Up in RL](https://spinningup.openai.com/en/latest/)! - created by OpenAI to serve as introduction to modern Deep RL, I would start here.
 https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-2. [Reinforcement Learning: An Introduction by Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html) - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
+2. [Reinforcement Learning: An Introduction by Sutton and Barto](https://book.douban.com/subject/30323890/) - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL. Another link: incompleteideas.net/book/the-book-2nd.html.
 3. [David Silver Reinforcement Learning Course (2016)](https://www.youtube.com/playlist?list=PLbWDNovNB5mqFBgq7i3MY6Ui4zudcvNFJ) - video lectures aligned with book above. Very well explained, covers basics and some modern deep rl methods. Very fun to watch IMHO.
 4. [Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - updated version of the above, more slower paced, but some things are better explained in 2016 version IMHO.
 5. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) - 2018 paper by Yuxi Li is a recent(ish) survey and overview of the field.
