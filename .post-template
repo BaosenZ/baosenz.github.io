@@ -4,6 +4,7 @@ date: 2025-01-11 22:00:00 -0400
 categories: [Template]
 tags: [template]
 image: ...
+math: true
 ---
 
 
@@ -25,7 +26,7 @@ We can write **bold text**, *italic text*, or `inline code`. We can write a list
 def hello_world():
     print("Hello, Chirpy!")
 ```
-
+Here is the full code: [Code_RL for molecular generation](https://colab.research.google.com/github/BaosenZ/baosenz.github.io/blob/main/assets/blog_files/2025-02-13-reinforcement-learning/code_RLmolgen/RLmolgen_highMW.ipynb)
 ### Adding an Image
 Here’s an image example (make sure the file exists):
 
