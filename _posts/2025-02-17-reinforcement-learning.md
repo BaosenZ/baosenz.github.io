@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for Molecular Generation"
-date: 2025-02-16 22:00:00 -0400
+date: 2025-02-17 22:00:00 -0400
 categories: [Tech, Machine Learning]
 tags: [machine-learning, reinforcement-learning]
 image: /assets/blog_files/2025-02-17-reinforcement-learning/RL-concept.excalidraw.png
